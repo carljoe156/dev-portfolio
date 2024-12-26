@@ -1,0 +1,4 @@
+Blog Logger (Can also be placed in ReadMe page)
+Added the ThemeIcon and edit the Styles Gobal and Astro.config.mjs for the webpage...
+It's still buggy as when I click the icon the theme changes but now fluidly
+and the icon goes missing, need to add a icon to change it back but it works.
